@@ -1,0 +1,7 @@
+from person import person
+
+p1 = person('moshe')
+
+print(p1.get_name())
+
+
